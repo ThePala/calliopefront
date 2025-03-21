@@ -1,6 +1,7 @@
 # calliope2
 
 A new Flutter project.
+Backend is at https://github.com/MridulMahaj/calliope
 
 ## Getting Started
 
